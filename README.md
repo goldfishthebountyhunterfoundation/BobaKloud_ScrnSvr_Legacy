@@ -47,7 +47,7 @@ Command exited with non-zero status 127
         Average unshared data size (kbytes): 0
         Average stack size (kbytes): 0
         Average total size (kbytes): 0
-        Maximum resident set size (kbytes): 1196 <---------
+        Maximum resident set size (kbytes): 1196 <------- [ 1.196 Mb ] --------
         Average resident set size (kbytes): 0
         Major (requiring I/O) page faults: 0
         Minor (reclaiming a frame) page faults: 52
