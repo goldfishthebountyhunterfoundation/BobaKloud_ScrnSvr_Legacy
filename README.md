@@ -3,8 +3,7 @@ Overview
 BobaKloud_ScrnSvr is a fun and magical screensaver app that displays AI-generated mystical creatures on your screen.
 Each time the screensaver activates, a new fantastical creature appears, crafted by advanced AI algorithms to bring a touch of magic to your desktop.
 Whether you're into dragons, unicorns, or creatures you've never seen before, this app adds a whimsical touch to your digital environment.
-![BobaKloud_ScrnSvr.gif]([https://example.com/funny.gif](https://github.com/goldfishthebountyhunter/BobaKloud_ScrnSvr/blob/4c2f4512d71fbffcd5313b39743762ced7445f9b/BobaKloud_ScrnSvr.gif)
-
+![BobaKloud_ScrnSvr.gif](https://github.com/goldfishthebountyhunter/BobaKloud_ScrnSvr/blob/4c2f4512d71fbffcd5313b39743762ced7445f9b/BobaKloud_ScrnSvr.gif)
 # Features
 Features Randomly Selected Unique ASCII Creatures: Every time the screensaver activates, a randomly selected, unique ASCII creature is displayed.
 
