@@ -8,10 +8,10 @@ Whether you're into dragons, unicorns, or creatures you've never seen before, th
 # Features
 Features Randomly Selected Unique ASCII Creatures: Every time the screensaver activates, a randomly selected, unique ASCII creature is displayed.
 
-# High-Quality Imagery:
+## High-Quality Imagery:
 Imagine the fusion of technology and creativity in its purest form: AI-generated ASCII art. This digital art style takes the humble text characters you see on your screen and transforms them into intricate, often mesmerizing images. Powered by advanced algorithms, AI can craft one-of-a-kind pieces that showcase how even simple symbols can become powerful works of art. What’s so cool about it? Every creation is unique and dynamically generated, making each experience different. It’s a perfect blend of nostalgia for the early days of computing with a modern twist, showing that even in a world of high-definition graphics, there’s still magic in the simplicity of text-based art.
 
-# Installation
+## Installation
 Download the app from [Insert download link].
 
 Follow the installation prompts.
@@ -20,14 +20,14 @@ Once installed, make sure to ```$ chmod +x BobaKloud_ScrnSvr_Runtime.sh```
 Script Should Run; to Exit simply ~Cntrl + C~
 
 
-# OS System Requirements
+## OS System Requirements
 * Linux & MacOS (Bash)
 * Windows (Cygwin)
 * Android (Termux)
 
 
-# Processor: Stable 1 GHz / 16 MHz (given you have a compatible OS)
-# Memory: 1 GB RAM / 200 MB RAM (given you have a compatible OS)
+#### Processor: Stable 1 GHz / 16 MHz (given you have a compatible OS)
+#### Memory: 1 GB RAM / 200 MB RAM (given you have a compatible OS)
 
 * Speed
 ```
@@ -65,5 +65,5 @@ Command exited with non-zero status 127
         Exit status: 127
 ```
 
-License
+# License
 See MIT License
