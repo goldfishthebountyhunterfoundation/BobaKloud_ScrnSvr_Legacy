@@ -71,5 +71,7 @@ Command exited with non-zero status 127
 * Launch with ```$ ./BobaKloud_ScrnSvr_Runtime.sh```
 * Break/Interupt with ```Ctrl + C```
 
+* Spice it up? install lolcat &  ```$ ./BobaKloud_ScrnSvr_Runtime.sh | lolcat```
+
 # License
 See MIT License
