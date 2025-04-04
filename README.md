@@ -52,11 +52,12 @@ Command exited with non-zero status 127
         Exit status: 127
 ```
 
-## Installation
-#### Download the app from [[Insert download link](https://github.com/goldfishthebountyhunter/BobaKloud_ScrnSvr/archive/refs/heads/main.zip)].
+## Installation 
+ [[Github Mirror](https://github.com/goldfishthebountyhunter/BobaKloud_ScrnSvr/archive/refs/heads/main.zip)]
+ [[Google Drive Mirror](https://drive.google.com/file/d/1yYnE6XX5DF-64KI8eqLVlwZBwL2ojOPv/view?usp=sharing)]
 
-* Unzip main.zip
-* cd main
+* Unzip BobaKloud_ScrnSvr-main
+* cd BobaKloud_ScrnSvr-main
 * make sure to ```$ chmod +x BobaKloud_ScrnSvr_Runtime.sh```
 * Launch with ```$ ./BobaKloud_ScrnSvr_Runtime.sh```
 * Break/Interupt with ```Ctrl + C```
