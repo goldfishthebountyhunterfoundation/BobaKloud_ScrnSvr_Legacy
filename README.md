@@ -4,26 +4,14 @@ BobaKloud_ScrnSvr is a fun and magical screensaver app that displays AI-generate
 Each time the screensaver activates, a new fantastical creature appears, crafted by advanced AI algorithms to bring a touch of magic to your desktop.
 Whether you're into dragons, unicorns, or creatures you've never seen before, this app adds a whimsical touch to your digital environment.
 ![BobaKloud_ScrnSvr.gif](https://github.com/goldfishthebountyhunter/BobaKloud_ScrnSvr/blob/4c2f4512d71fbffcd5313b39743762ced7445f9b/BobaKloud_ScrnSvr.gif)
-# Features
-Features Randomly Selected Unique ASCII Creatures: Every time the screensaver activates, a randomly selected, unique ASCII creature is displayed.
 
 ## High-Quality Imagery:
 Imagine the fusion of technology and creativity in its purest form: AI-generated ASCII art. This digital art style takes the humble text characters you see on your screen and transforms them into intricate, often mesmerizing images. Powered by advanced algorithms, AI can craft one-of-a-kind pieces that showcase how even simple symbols can become powerful works of art. What’s so cool about it? Every creation is unique and dynamically generated, making each experience different. It’s a perfect blend of nostalgia for the early days of computing with a modern twist, showing that even in a world of high-definition graphics, there’s still magic in the simplicity of text-based art.
-
-## Installation
-Download the app from [Insert download link].
-
-Follow the installation prompts.
-
-Once installed, make sure to ```$ chmod +x BobaKloud_ScrnSvr_Runtime.sh```
-Script Should Run; to Exit simply ~Cntrl + C~
-
 
 ## OS System Requirements
 * Linux & MacOS (Bash)
 * Windows (Cygwin)
 * Android (Termux)
-
 
 #### Processor: Stable 1 GHz / 16 MHz (given you have a compatible OS)
 #### Memory: 1 GB RAM / 200 MB RAM (given you have a compatible OS)
@@ -63,6 +51,15 @@ Command exited with non-zero status 127
         Page size (bytes): 4096
         Exit status: 127
 ```
+
+## Installation
+#### Download the app from [[Insert download link](https://github.com/goldfishthebountyhunter/BobaKloud_ScrnSvr/archive/refs/heads/main.zip)].
+
+* Unzip main.zip
+* cd main
+* make sure to ```$ chmod +x BobaKloud_ScrnSvr_Runtime.sh```
+* Launch with ```$ ./BobaKloud_ScrnSvr_Runtime.sh```
+* Break/Interupt with ```Ctrl + C```
 
 # License
 See MIT License
