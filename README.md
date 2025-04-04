@@ -74,7 +74,7 @@ Command exited with non-zero status 127
 * Spice it up? install lolcat &  ```$ ./BobaKloud_ScrnSvr_Runtime.sh | lolcat```
 
 ## Using Git
-* ```$ git clone https://github.com/username/repository-name.git```
+* ```$ git clone https://github.com/goldfishthebountyhunter/BobaKloud_ScrnSvr.git```
 * cd BobaKloud_ScrnSvr-main
 * make sure to ```$ chmod +x BobaKloud_ScrnSvr_Runtime.sh```
 * Launch with ```$ ./BobaKloud_ScrnSvr_Runtime.sh```
