@@ -19,8 +19,10 @@ Imagine the fusion of technology and creativity in its purest form: AI-generated
 
 ## OS System Requirements
 * Linux & MacOS (Bash)
-* Windows (Cygwin)
+* Windows (Cygwin, WSL, kitty)
 * Android (Termux)
+
+![BobaKloud_ScrnSvr_Alt.gif](https://github.com/goldfishthebountyhunter/BobaKloud_ScrnSvr/blob/8276c330d0b8c95339e6991d14e3394fb6af21c1/BobaKloud_ScrnSvr_Alt.gif)
 
 #### Processor: Stable 1 GHz / 16 MHz (given you have a compatible OS)
 #### Memory: 1 GB RAM / 200 MB RAM (given you have a compatible OS)
